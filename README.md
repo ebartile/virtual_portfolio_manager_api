@@ -1,0 +1,10 @@
+## 1 Background and scope of the project 
+
+At present, Crowdfunding source of raising funds typically for startups or projects has gained popularity with most startups resorting to the use of Crowdfunding platforms to raise funds in exchange for equity because it is relatively inexpensive and uncomplicated in nature. In the existing model, a Pool of people contribute small amounts of money towards a project or cause and expect some financial returns. The call for a solution to issues related to security, investor abuse and illegal transactions that could plague crowdfunding has led me to investigate the implications of blockchain in Crowdfunding.
+
+The Virtual Portfolio Manager (VPM) is a combination of a web and a mobile phone App system that integrates start-ups and investors. The VPM automatically links the investor’s interested field of business with potential start-ups in the same field. The system helps startups to keep track of their financial progress from their profile and captures all daily and authentic activities of a startup and it can Rank all startups for investors to identify the best startups their issues out annual Certificates. 
+
+The VPM shall contain blockchain technology and manage and execute smart contracts between a startup and an investor. The electronic notary shall be used to affix the authorized seal and signatures to certified documents. The notary startup certificate issuing activity shall use cryptography and a secured public key to manage, create, store and distribute the digital certificate. The documents shall be saved on blockchain and any modifications on such documents are detected and easily traced through the timestamps placed on the documents. This technology shall ease investment in startups in a secured and authentic time-saving process. 
+
+The VPM system will be programmed in blockchain languages which include Solidity, NodeJs, and Flutter. The objective of the VPM system is to help improve the current state of investment protocols in the Business incubators in Uganda.
+
